@@ -24,7 +24,7 @@ Just clone this repository, and paste the files into your server folder.
     
 ## Demo
 
-[sql.kosamate.hu](sql.kosamate.hu)
+[sql.kosamate.hu](https://sql.kosamate.hu)
 
 
 ## API Reference
