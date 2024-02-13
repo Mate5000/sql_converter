@@ -229,7 +229,7 @@
           </p>
 
           <a
-            href="https://github.com/nielsVoogt/nice-forms.css"
+            href="https://github.com/Mate5000/sql_converter"
             class="to-repo"
             target="_blank"
           >
